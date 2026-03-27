@@ -1,4 +1,4 @@
-# Portal Web - Asociación de Agua Potable La Laguneta 1 y 2
+# Asociación de Agua Potable La Laguneta 1 y 2
 
 Este es un proyecto de **desarrollo de software en código abierto** diseñado para servir a la comunidad de La Laguneta. La web proporciona información esencial sobre el servicio de agua potable, avisos y contacto.
 
